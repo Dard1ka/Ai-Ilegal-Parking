@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>Real-time AI-powered illegal parking detection with live dashboard, multi-zone ROI, and Indonesian TTS alerts.</b><br/>
+  <b>AI-powered illegal parking detection with live dashboard, multi-zone ROI, and Indonesian TTS alerts.</b><br/>
   Detects, tracks, and alerts on vehicles parked in restricted zones using YOLOv8 object detection and BotSORT multi-object tracking.
 </p>
 
