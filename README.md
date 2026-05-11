@@ -94,24 +94,6 @@ Frame → YOLO Track → Filter by ROI → Assignment Logic
 
 ## 🚀 Quick Start
 
-### Option A — Standalone Script (no dashboard)
-
-```bash
-# 1. Clone & install
-git clone https://github.com/YOUR_USERNAME/illegal-parking-detection.git
-cd illegal-parking-detection
-pip install -r requirements.txt
-
-# 2. Place model files (see Models section)
-# best.pt → vehicle detection
-# triangle.pt → warning triangle detection
-
-# 3. Run with environment check
-python demo_quickstart.py --video input4.mp4
-```
-
-### Option B — Full Dashboard (recommended)
-
 ```bash
 # Terminal 1: Backend
 pip install -r requirements.txt
